@@ -14,18 +14,18 @@ To make the learning process more engaging, many exercises and projects are insp
 
 | Module | Topic | Status |
 |:---:|---|:---:|
-| 01 | [Python Basics](01_basics/) | ✅ Available |
-| 02 | [Conditionals](02_conditionals/) | ✅ Available |
-| 03 | [Loops](03_loops/) | ✅ Available |
-| 04 | [Data Structures](04_data_structures/) | ✅ Available |
-| 05 | [Functions](05_functions/) | ✅ Available |
-| 06 | [Comprehensions](06_comprehensions/) | ✅ Available |
+| 01 | [Python Basics](python_foundations/01_basics/) | ✅ Available |
+| 02 | [Conditionals](python_foundations/02_conditionals/) | ✅ Available |
+| 03 | [Loops](python_foundations/03_loops/) | ✅ Available |
+| 04 | [Data Structures](python_foundations/04_data_structures/) | ✅ Available |
+| 05 | [Functions](python_foundations/05_functions/) | ✅ Available |
+| 06 | [Comprehensions](python_foundations/06_comprehensions/) | ✅ Available |
 | 07 | ... | 🔜 Coming |
 | 08 | ... | 🔜 Coming |
 
 ### ⚡ Quick Reference
 
-📌 **[Python Foundations Cheatsheets](CHEATSHEETS.md)**
+📌 **[Python Foundations Cheatsheets](cheatsheets.md)**
 
 > [!NOTE]
 > This repository is continuously evolving as I progress through my studies and is subject to change.
