@@ -20,8 +20,8 @@ To make the learning process more engaging, many exercises and projects are insp
 | 04 | [Data Structures](04_data_structures/) | ✅ Available |
 | 05 | [Functions](05_functions/) | ✅ Available |
 | 06 | [Comprehensions](06_comprehensions/) | ✅ Available |
-| 07 | ... | 🔜 Coming |
-| 08 | ... | 🔜 Coming |
+| 07 | Files and errors | 🔜 Coming |
+| 08 | Object-Oriented Programming (OOP) | 🔜 Coming |
 
 ### ⚡ Quick Reference
 
@@ -34,11 +34,11 @@ To make the learning process more engaging, many exercises and projects are insp
 
 Each topic follows the same practical structure:
 
-📖 **Theory** - Understand the concepts with simple explanations and examples.
+- **Theory** - Understand the concepts with simple explanations and examples.
 
-🧩 **Exercises** - Reinforce them through exercises of increasing difficulty.
+- **Exercises** - Reinforce them through exercises of increasing difficulty.
 
-🚀 **Project** - Apply everything learned in a small module project.
+- **Project** - Apply everything learned in a small module project.
 
 ## 📂 Repository Structure
 
