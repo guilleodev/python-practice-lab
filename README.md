@@ -20,12 +20,12 @@ To make the learning process more engaging, many exercises and projects are insp
 | 04 | [Data Structures](04_data_structures/) | ✅ Available |
 | 05 | [Functions](05_functions/) | ✅ Available |
 | 06 | [Comprehensions](06_comprehensions/) | ✅ Available |
-| 07 | Files and errors | 🔜 Coming |
-| 08 | Object-Oriented Programming (OOP) | 🔜 Coming |
+| 07 | ... | 🔜 Coming |
+| 08 | ... | 🔜 Coming |
 
 ### ⚡ Quick Reference
 
-📌 **[Python Foundations Cheatsheets](CHEATSHEETS.md)**
+📌 **[Python Foundations Cheatsheets](cheatsheets.md)**
 
 > [!NOTE]
 > This repository is continuously evolving as I progress through my studies and is subject to change.
