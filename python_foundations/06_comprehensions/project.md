@@ -206,7 +206,7 @@ print("==========================")
 
 ## ⚡ Work in progress...
 
-➡️ Next: `07_files_and_errors`
+➡️ Next: `08_POO`
 
 <div align="center">
   <i>Made by</i>
