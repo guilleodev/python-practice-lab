@@ -21,6 +21,9 @@ To make the learning process more engaging, many exercises and projects are insp
 | 05 | [Functions](python_foundations/05_functions/) | ✅ Available |
 | 06 | [Comprehensions](python_foundations/06_comprehensions/) | ✅ Available |
 | 07 | POO | 🔜 Coming |
+| 07 | NumPy | 🔜 Coming |
+| 07 | Pandas | 🔜 Coming |
+
 
 ### ⚡ Quick Reference
 
